@@ -37,7 +37,7 @@ ply==3.8
 protobuf==3.6.0
 pyasn1==0.4.3
 pyasn1-modules==0.2.2
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 pytz==2018.5
 requests>=2.20.0
