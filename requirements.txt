@@ -34,7 +34,7 @@ nine==1.0.0
 oauth2client==3.0.0
 packaging==17.1
 ply==3.8
-protobuf==3.6.0
+protobuf==3.18.3
 pyasn1==0.4.3
 pyasn1-modules==0.2.2
 Pygments==2.2.0
